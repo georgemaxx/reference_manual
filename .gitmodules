@@ -1,0 +1,6 @@
+[submodule "etmr"]
+	path = etmr
+	url = git@github.com:georgemaxx/etmr.git
+[submodule "lptmr"]
+	path = lptmr
+	url = git@github.com:georgemaxx/lptmr.git
